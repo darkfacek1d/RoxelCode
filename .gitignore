@@ -1,0 +1,22 @@
+# Build
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/app/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Keystore
+*.jks
+*.keystore
+
+# OS
+Thumbs.db
+
+# JVM heap dumps
+*.hprof

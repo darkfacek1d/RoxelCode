@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RoxelCode</string>
+    <string name="app_owner">darkfacek1d</string>
+    <string name="app_version">0.1.0</string>
+    <string name="app_tagline">Mobile IDE by darkfacek1d</string>
+</resources>
